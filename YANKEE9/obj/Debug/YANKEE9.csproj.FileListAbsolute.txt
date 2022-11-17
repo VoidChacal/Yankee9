@@ -1,0 +1,17 @@
+E:\Yankee9-main\YANKEE9\bin\Debug\BdYANKEE9.mdf
+E:\Yankee9-main\YANKEE9\bin\Debug\BdYANKEE9_log.ldf
+E:\Yankee9-main\YANKEE9\bin\Debug\YANKEE9.exe.config
+E:\Yankee9-main\YANKEE9\bin\Debug\YANKEE9.exe
+E:\Yankee9-main\YANKEE9\bin\Debug\YANKEE9.pdb
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.csprojAssemblyReference.cache
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.clients.resources
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.Fornecedores.resources
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.FrmPrincipal.resources
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.Produtos.resources
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.Properties.Resources.resources
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.search.resources
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.YANKEE9Usuar.resources
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.csproj.GenerateResource.cache
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.csproj.CoreCompileInputs.cache
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.exe
+E:\Yankee9-main\YANKEE9\obj\Debug\YANKEE9.pdb
